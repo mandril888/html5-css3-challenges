@@ -1,0 +1,29 @@
+body{
+	margin: 20px;
+}
+
+header{
+	height: 100px;
+	margin-bottom: 10px;
+	background: #838283;
+}
+
+aside{
+	height: 300px;
+	width: 20%;
+	background: #333333;
+	float: left;
+}
+
+section{
+	height: 300px;
+	width: 80%;
+	margin-left: 20%;
+	background: #D2D0D2;
+
+}
+
+footer{
+	height: 100px;
+	background: #838283;
+}
