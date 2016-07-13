@@ -18,12 +18,13 @@ aside{
 section{
 	height: 300px;
 	width: 80%;
-	margin-left: 20%;
+	float:right;
 	background: #D2D0D2;
 
 }
 
 footer{
 	height: 100px;
+	clear: both;
 	background: #838283;
 }
